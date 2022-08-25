@@ -1,3 +1,6 @@
+Task Descriptioin:  Chinese News Summarization (Title Generation)
+
+
 1. Training:
  
 python3 ./run_summarization.py \
